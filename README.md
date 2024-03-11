@@ -3,4 +3,4 @@
 
 Para ejecutar el sistema, debes poner:
 
-"npm install ract"
+``npm install react``
